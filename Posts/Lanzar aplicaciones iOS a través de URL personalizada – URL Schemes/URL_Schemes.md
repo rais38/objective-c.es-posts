@@ -1,8 +1,8 @@
 Este tipo de *feature* la utilizamos a diario la gran mayoría. Gracias a ellas podemos compartir recursos multiplataforma (*iOS*, *Android*, *HTML5*, *Desktop*…) y lanzar aplicaciones pudiendo delegar en ellas determinadas acciones. Un ejemplo podría ser cuando copiamos el enlace de una canción en Spotify y se lo enviamos a un amigo por medio de un correo o un cliente de mensajería y cuando haga click se le abrirá dicha canción para que pueda escucharla.
 
-[caption id="attachment_641" align="aligncenter" width="476"][<img src="http://objective-c.es/wp-content/uploads/2012/12/copiar_uri.png" alt="Copiar Uri" title="Copiar Uri" width="476" height="285" class="size-full wp-image-641" />Copiar Uri[/caption]
+<img src="http://objective-c.es/wp-content/uploads/2012/12/copiar_uri.png" alt="Copiar Uri" title="Copiar Uri" width="476" height="285" class="size-full wp-image-641" />
 
-[caption id="attachment_652" align="aligncenter" width="538"]<img src="http://objective-c.es/wp-content/uploads/2012/12/cont_uri.png" alt="Contenido de la URI anteriormente copiada" title="Contenido de la URI anteriormente copiada" width="538" height="91" class="size-full wp-image-652" />Contenido de la URI anteriormente copiada[/caption]
+<img src="http://objective-c.es/wp-content/uploads/2012/12/cont_uri.png" alt="Contenido de la URI anteriormente copiada" title="Contenido de la URI anteriormente copiada" width="538" height="91" class="size-full wp-image-652" />
 
 Es muy fácil crear nuestras propias “**URI Scheme**” en *iOS* y vamos a ver un ejemplo de cómo implementarlo en nuestro propio proyecto.
 
